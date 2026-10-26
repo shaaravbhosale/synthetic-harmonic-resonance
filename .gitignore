@@ -1,0 +1,18 @@
+.venv
+outputs
+__pycache__/
+*.pyc
+**/**.wav
+.idea
+/paper.aux
+/paper.log
+/paper.out
+/paper.synctex.gz
+/key_identification_using_chroma_analysis_of_harmonic_overlays.aux
+/key_identification_using_chroma_analysis_of_harmonic_overlays.log
+/key_identification_using_chroma_analysis_of_harmonic_overlays.out
+/key_identification_using_chroma_analysis_of_harmonic_overlays.synctex.gz
+
+# Local input audio
+/inputs/*.mp3
+/inputs/*.m4a
